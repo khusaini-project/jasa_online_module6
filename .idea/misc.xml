@@ -3,6 +3,33 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/drawable/button_style1.xml" value="0.227" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/drawable/button_style2.xml" value="0.227" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/drawable/button_style4.xml" value="0.136" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.155" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.155" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.155" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/drawable/ic_baseline_work_24.xml" value="0.155" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/drawable/ic_date_range_24dp.xml" value="0.155" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/drawable/ic_delete_forever_black_24dp.xml" value="0.1945" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/drawable/ic_edit_white_24dp.xml" value="0.155" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/drawable/ic_email_white_24dp.xml" value="0.227" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/drawable/ic_password_white_24dp.xml" value="0.227" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/drawable/ic_person_white_24dp.xml" value="0.155" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/drawable/ic_phone_white_24dp.xml" value="0.155" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/drawable/ic_send_white_24dp.xml" value="0.227" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/drawable/ic_wc_white_24dp.xml" value="0.155" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/drawable/linestyle.xml" value="0.136" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/drawable/repeat_background.xml" value="0.2085" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/layout/activity_edit_profile.xml" value="0.13272543059777103" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/layout/activity_login.xml" value="0.22916666666666666" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/layout/activity_register.xml" value="0.13272543059777103" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/layout/activity_splash_screen.xml" value="0.1956521739130435" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/layout/fragment_jasa.xml" value="0.12552083333333333" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/layout/fragment_profile.xml" value="0.13272543059777103" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/layout/nev_header.xml" value="0.1956521739130435" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/menu/nav_menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/AppMobile_Repo_P8_Pro23_Navigation_Drawer_Dengan_Fragment/app/src/main/res/xml/network_security_config.xml" value="0.22916666666666666" />
         <entry key="..\:/MyAndroidApp/P8Pro22/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/MyAndroidApp/P8Pro22/app/src/main/res/layout/content_main.xml" value="0.14673913043478262" />
         <entry key="..\:/MyAndroidApp/P8Pro22/app/src/main/res/layout/fragment_beranda.xml" value="0.14673913043478262" />
